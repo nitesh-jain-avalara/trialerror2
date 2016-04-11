@@ -12,4 +12,12 @@
 
 set INPUT1=C:\Users\nitesh.jain\Desktop\screen
 set INPUT2=C:\Users\nitesh.jain\Desktop\motog
+<<<<<<< Updated upstream
 xcopy %INPUT1% %INPUT2% /y /s
+=======
+xcopy %INPUT1% %INPUT2% /y /s
+
+:: added this
+::new one
+::
+>>>>>>> Stashed changes
